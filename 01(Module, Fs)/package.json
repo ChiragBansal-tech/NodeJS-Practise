@@ -1,0 +1,12 @@
+{
+  "name": "node.js-learning",
+  "version": "1.0.0",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "print":" node Hello.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
